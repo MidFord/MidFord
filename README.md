@@ -4,7 +4,7 @@ I'm **Ford Wells** on [X](https://x.com/ford_mid_wells), **MidFord327** on Disco
 
 I'm a developer, artist, and curious experimenter. I like making things, figuring out how they work, and seeing how far I can take an idea. That often means mixing code, 3D, sound, and a bit of worldbuilding.
 
-### ✨ What I'm working on
+### ₊⊹⋆ What I'm working on
 
 **[Lightflow for Blockbench](https://github.com/MidFord/lightflow-blockbench)** is my personal rendering project: a space to explore lighting, materials, atmosphere, high-resolution rendering, and the creative workflow around them.
 
@@ -19,4 +19,4 @@ Creative tools, Minecraft modding, game development, 3D art, sound design, and e
 - **X / Twitter:** [@ford_mid_wells](https://x.com/ford_mid_wells) — projects, experiments, renders, and updates.
 - **Discord:** `MidFord327` — same person, slightly more casual.
 
-Thanks for stopping by! ♡
+Thanks for stopping by! 𖹭
